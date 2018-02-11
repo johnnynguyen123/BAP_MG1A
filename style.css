@@ -1,0 +1,48 @@
+body{
+  /* background-image: url("image.jpg"); */
+  background-color: lightblue;
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+@font-face {
+    font-family: std;
+    src: url(Font.ttf);
+}
+#head{
+  margin-left: 830px;
+  margin-top: 100px;
+  font-family: 'std';
+}
+#in{
+  margin-left: 840px;
+  margin-top: 200px;
+  font-family: 'std';
+}
+
+form{
+  margin-left: 750px;
+  margin-top: 10px;
+  font-family: 'std';
+}
+#voornamen{
+
+}
+#tussenvoegsels{
+  margin-left: -42px;
+}
+#achternamen{
+  margin-left: -16px;
+}
+#email{
+  margin-left: -7px;
+}
+#knop{
+  margin-left: 130px;
+  margin-top: 10px;
+}
+#terug{
+  margin-left: 840px;
+
+}
